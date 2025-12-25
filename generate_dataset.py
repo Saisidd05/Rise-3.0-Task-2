@@ -64,4 +64,5 @@ with open(FILE, "w", newline="", encoding="utf-8") as f:
                     f"{cat} expense"
                 ])
 
-print("✅ Expense tracker.csv generated successfully!")
+print("✅ Budget_data.csv generated successfully!")
+
